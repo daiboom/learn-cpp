@@ -1,0 +1,7 @@
+{
+    "nuxt.isNuxtApp": false,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cpptools",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
